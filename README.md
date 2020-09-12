@@ -27,7 +27,7 @@ In non-interactive mode, the user has no option to select a region and play the 
 Based on your experience, we request you to rate each output ranging from [0 to 10].
 Kindly submit your result in a table format as shown below.
 
-Sl No|Image Name|GT(Interactive)|GT(Non-Interactive)|Deeplab(Interactive)|DeepLab(Non-Interactive)|PSP(Interactive)|PSP(Non-Interactive)|Tesseract
----|---|---|---|---|---|---|---|---|---
-1  |tem.jpg|10|5|10|5|7|5|3
+Sl No | Image Name | GT(Interactive) | GT(Non-Interactive) | Deeplab(Interactive) | DeepLab(Non-Interactive) | PSP(Interactive) | PSP(Non-Interactive) | Tesseract
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1  | tem.jpg | 10 | 5 | 10 | 5 | 7 | 5 | 3
 
