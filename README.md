@@ -5,7 +5,7 @@ This problem is posed as an image-to-markup language generation task. Extraction
 We uses the recently published dataset of classroom slides to demonstrate our results. We improve the classroom segmentation accuracy using synthetic classroom slide and its automatically generated groundtruth.  We also used unlabelled classroom slide images to improve the segmentation accuracy.
 
 ## How to evaluate the system?
-
+Note: If you are away from iiit campus, you have to setup the VPN https://vpn.iiit.ac.in// 
 ### Step1:
 Open the list of slide images [here](http://10.2.16.142/cgi-bin/vi_project/list_slide.sh)
 ![table](tableLists1.jpg)<br/>
