@@ -5,6 +5,7 @@ This problem is posed as an image-to-markup language generation task. Extraction
 We uses the recently published dataset of classroom slides to demonstrate our results. We improve the classroom segmentation accuracy using synthetic classroom slide and its automatically generated groundtruth.  We also used unlabelled classroom slide images to improve the segmentation accuracy.
 
 ## How to evaluate the system?
+
 ### Step1:
 Open the list of slide images [here](http://10.2.16.142/cgi-bin/vi_project/list_slide.sh)
 ![table](tableLists1.jpg)<br/>
@@ -13,9 +14,10 @@ Each image has four outputs links given under the title of GT, PSP, DeepLab, and
 #### Each evaluator can randomly choose a minimum of 5 slide images and evaluate all the outputs corresponds to those images.
 Eg: if you chose the image name "130110-DKLK0EGEYA-540_frame1770.jpg", then you suppose to evaluate all the outputs correspond to that image. (red marked boxes) 
 
-### Step1: Evaluate the output
-We have four different outputs for a slide image. We request you to evaluate the efficiency of these outputs for conveying the slide content to a visually impaired student.
+### Step2: Evaluate the output
+We have four different outputs for a slide image. We request you to evaluate the efficiency of these outputs for conveying the slide content to a visually impaired student. Our system have two modes of output 1) Interactive and 2) non-interactive modes.
 #### Open the output links [eg link](http://10.2.16.142/cgi-bin/vi_project/read_slide.sh?p=vi_deeplab&k=130110-DKLK0EGEYA-540_frame1770.jpg)
 ![deeplab output](deeplab.jpg)<br/>
+##### Interactive mode
 In each of the output look similar to the image shown above.The slide image may contain the heading, lists, texts, figures, and table regions.
 To convey the presents of these regions in the slide to a VI student, the system reads the region name such as heading, lists, etc. when the mouse cursor moves over the region of the slide image. Hence, a VI student can easily identify the regions. A mouse click on this region triggers the system to read out the content in the corresponding region.
