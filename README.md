@@ -16,5 +16,5 @@ Eg: if you chose the image name "130110-DKLK0EGEYA-540_frame1770.jpg", then you 
 ### Step1: Evaluate the output
 We have four different outputs for a slide image. We request you to evaluate the efficiency of these outputs for conveying the slide content to a visually impaired student.
 #### Open the output links [eg link](http://10.2.16.142/cgi-bin/vi_project/read_slide.sh?p=vi_deeplab&k=130110-DKLK0EGEYA-540_frame1770.jpg)
-![deeplab output](deeplab.jpg)
-
+![deeplab output](deeplab.jpg)<br/>
+In each of the output look similar to the image shown above.
