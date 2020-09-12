@@ -7,7 +7,7 @@ We uses the recently published dataset of classroom slides to demonstrate our re
 ## How to evaluate the system?
 #### Step1:
 Open the list of slide images [here](http://10.2.16.142/cgi-bin/vi_project/list_slide.sh)
-The table contain 332 slide images and corresponding to each image four outputs links are given under the title of GT,PSP,DeepLab and tessetact.
+The table contain 332 slide images and corresponding to each image four outputs links are given under the title of GT,PSP,DeepLab and tessetact. The column titled "Table" indicate whether the slide image contains table or not
 ![table](tableLists.jpg)
 
 
