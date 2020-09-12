@@ -29,5 +29,5 @@ Kindly submit your result in a table format as shown below.
 
 Sl No | Image Name | GT(I) | GT(N) | Deeplab(I) | Deeplab(N) | PSP(I) | PSP(N) | Tesseract 
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
+1 | 130110-DKLK0EGEYA-540_frame1770.jpg | x | x | x | x | x | x | x 
 
