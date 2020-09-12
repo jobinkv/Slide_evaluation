@@ -6,4 +6,4 @@ We uses the recently published dataset of classroom slides to demonstrate our re
 
 ## How to evaluate the system?
 #### Step1:
-Open the list of slide images here[http://10.2.16.142/cgi-bin/vi_project/list_slide.sh]
+Open the list of slide images (here)[http://10.2.16.142/cgi-bin/vi_project/list_slide.sh]
