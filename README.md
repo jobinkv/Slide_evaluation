@@ -8,9 +8,13 @@ We uses the recently published dataset of classroom slides to demonstrate our re
 ### Step1:
 Open the list of slide images [here](http://10.2.16.142/cgi-bin/vi_project/list_slide.sh)
 ![table](tableLists1.jpg)<br/>
-The list contain 332 slide images and corresponding to each image four outputs links are given under the title of GT,PSP,DeepLab and tessetact. The column titled "Table" indicate whether the slide image contains table or not.<br/>
-#### Each evaluator can randomly choose 5 slide images and evaluate all the outputs corrsponds to those images.
-Eg: if you are choosen image name "130110-DKLK0EGEYA-540_frame1770.jpg" then you are suposed to evaluate all the outpus currespond to that image. (red marked boxes) 
+The list contains 332 slide images.
+Each image has four outputs links given under the title of GT, PSP, DeepLab, and tesseract. The column titled "Table" indicates whether the slide image contains a table or not.<br/>
+#### Each evaluator can randomly choose a minimum of 5 slide images and evaluate all the outputs corresponds to those images.
+Eg: if you chose the image name "130110-DKLK0EGEYA-540_frame1770.jpg", then you suppose to evaluate all the outputs correspond to that image. (red marked boxes) 
 
+### Step1: Evaluate the output
+We have four different outputs for a slide image. We request you to evaluate the efficiency of these outputs for conveying the slide content to a visually impaired student.
+#### Open the output links
 
 
