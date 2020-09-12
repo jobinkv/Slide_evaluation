@@ -27,7 +27,7 @@ In non-interactive mode, the user has no option to select a region and play the 
 Based on your experience, we request you to rate each output ranging from [0 to 10].
 Kindly submit your result in a table format as shown below.
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+Attempt | 1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
