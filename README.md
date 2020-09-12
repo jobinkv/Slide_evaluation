@@ -29,7 +29,9 @@ Note: The approach Tesseract doesn't have the Interactive mode.
 ### Step3: Submit the evaluation
 Based on your experience, we request you to rate each output ranging from [0 to 10]. Kindly submit your result in a table format as shown below and mail to jobin.kv@research.iiit.ac.in
 
-Sl No | Image Name | GT(I) | GT(N) | Deeplab(I) | Deeplab(N) | PSP(I) | PSP(N) | Tesseract 
+Sl No | Image Name | GT(I*) | GT(N) | Deeplab(I) | Deeplab(N) | PSP(I) | PSP(N) | Tesseract 
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
 1 | 130110-DKLK0EGEYA-540_frame1770.jpg | x | x | x | x | x | x | x 
 
+* <br/>
+Note: I --> indicating Intractive mode, N --> indicate Non interactive mode<br/>
