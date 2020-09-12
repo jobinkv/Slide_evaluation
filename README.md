@@ -22,8 +22,10 @@ We have four different outputs for a slide image. We request you to evaluate the
 In each of the output look similar to the image shown above.The slide image may contain the heading, lists, texts, figures, and table regions.
 To convey the presents of these regions in the slide to a VI student, the system reads the region name such as heading, lists, etc. when the mouse cursor moves over the region of the slide image. Hence, a VI student can easily identify the regions. A mouse click on this region triggers the system to read out the content in the corresponding region.
 ##### Non-interactive mode
-In non-interactive mode, the user has no option to select a region and play the content of the region. Instead, the system plays all the slide content from start to end. To evaluate this mode, kindly click the button shown below the right corner of the image.<br/>
-Note: The approach Tesseract dont have the Interactive mode.
+In non-interactive mode, the user has no option to select a region and play the content of the region. Instead, the system plays all the slide content from start to end. To evaluate this mode, kindly click the button shown below the right corner of the image.
+
+
+Note: The approach Tesseract doesn't have the Interactive mode.
 ### Step3: Submit the evaluation
 Based on your experience, we request you to rate each output ranging from [0 to 10]. Kindly submit your result in a table format as shown below and mail to jobin.kv@research.iiit.ac.in
 
