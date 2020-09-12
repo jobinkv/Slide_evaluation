@@ -29,4 +29,5 @@ Kindly submit your result in a table format as shown below.
 
 Sl No|Image Name|GT(Interactive)|GT(Non-Interactive)|Deeplab(Interactive)|DeepLab(Non-Interactive)|PSP(Interactive)|PSP(Non-Interactive)|Tesseract
 ---|---|---|---|---|---|---|---|---|---
+Sl No|Image Name|GT(Interactive)|GT(Non-Interactive)|Deeplab(Interactive)|DeepLab(Non-Interactive)|PSP(Interactive)|PSP(Non-Interactive)|Tesseract
 
