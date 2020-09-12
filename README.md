@@ -24,8 +24,7 @@ To convey the presents of these regions in the slide to a VI student, the system
 ##### Non-interactive mode
 In non-interactive mode, the user has no option to select a region and play the content of the region. Instead, the system plays all the slide content from start to end. To evaluate this mode, kindly click the button shown below the right corner of the image.
 ### Step3: Submit the evaluation
-Based on your experience, we request you to rate each output ranging from [0 to 10].
-Kindly submit your result in a table format as shown below.
+Based on your experience, we request you to rate each output ranging from [0 to 10]. Kindly submit your result in a table format as shown below and mail to jobin.kv@research.iiit.ac.in
 
 Sl No | Image Name | GT(I) | GT(N) | Deeplab(I) | Deeplab(N) | PSP(I) | PSP(N) | Tesseract 
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
