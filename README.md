@@ -28,4 +28,5 @@ Based on your experience, we request you to rate each output ranging from [0 to 
 Kindly submit your result in a table format as shown below.
 
 Sl No|Image Name|GT(Interactive)|GT(Non-Interactive)|Deeplab(Interactive)|DeepLab(Non-Interactive)|PSP(Interactive)|PSP(Non-Interactive)|Tesseract
+---|---|---|---|---|---|---|---|---|---
 
