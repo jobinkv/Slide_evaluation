@@ -17,4 +17,5 @@ Eg: if you chose the image name "130110-DKLK0EGEYA-540_frame1770.jpg", then you 
 We have four different outputs for a slide image. We request you to evaluate the efficiency of these outputs for conveying the slide content to a visually impaired student.
 #### Open the output links [eg link](http://10.2.16.142/cgi-bin/vi_project/read_slide.sh?p=vi_deeplab&k=130110-DKLK0EGEYA-540_frame1770.jpg)
 ![deeplab output](deeplab.jpg)<br/>
-In each of the output look similar to the image shown above.
+In each of the output look similar to the image shown above.The slide image may contain the heading, lists, texts, figures, and table regions.
+To convey the presents of these regions in the slide to a VI student, the system reads the region name such as heading, lists, etc. when the mouse cursor moves over the region of the slide image. Hence, a VI student can easily identify the regions. A mouse click on this region triggers the system to read out the content in the corresponding region.
